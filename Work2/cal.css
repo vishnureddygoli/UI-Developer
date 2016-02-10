@@ -1,0 +1,7 @@
+body{
+
+    background: red; 
+    background: -webkit-linear-gradient(top left, red, white,  green); 
+    background: -linear-gradient(bottom right, red, white, green); 
+   	background: -moz-linear-gradient(top left, red, white, green);
+}
